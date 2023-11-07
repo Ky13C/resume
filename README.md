@@ -2,4 +2,4 @@
 
 My resume, written in [Typst](https://typst.app/).
 
-![Resume](./main.png)
+![Resume](./main.pdf)
